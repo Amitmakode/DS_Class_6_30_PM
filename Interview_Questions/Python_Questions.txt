@@ -1,1 +1,6 @@
-
+1. What is Python and why is it popular for data science?
+ Answer: Python is a high-level, interpreted programming language. It's popular for data science because:
+ Easy to learn and read
+ Rich ecosystem of libraries (NumPy, Pandas, Scikit-learn)
+ Great community support
+ Versatile for both analysis and production
