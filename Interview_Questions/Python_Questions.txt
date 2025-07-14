@@ -4,3 +4,59 @@
  Rich ecosystem of libraries (NumPy, Pandas, Scikit-learn)
  Great community support
  Versatile for both analysis and production
+-------------------------------------------------------------------------------------
+
+2. What are the different data types in Python?
+ Answer: Main data types include:
+ Numeric: int, float, complex
+ Text: str (string)
+ Boolean: bool (True/False)
+ Collections: list, tuple, dict, set
+ None: NoneType
+-------------------------------------------------------------------------------------------
+
+3. What is the difference between list and tuple?
+ Answer:
+ List: Mutable (can be changed), uses square brackets 
+[]
+ Tuple: Immutable (cannot be changed), uses parentheses 
+Example: 
+my_list = [1, 2, 3] vs 
+my_tuple = (1, 2, 3)
+-------------------------------------------------------------------------------------------
+
+4. What is the difference between .py and .pyc files?
+ Answer:
+ .py: Source code files (human-readable)
+ .pyc: Compiled bytecode files (machine-readable, faster execution)
+ Python automatically creates .pyc files for faster imports
+---------------------------------------------------------------------------------------------
+
+5. What is the difference between print() and return?
+ Answer:
+ print(): Displays output on screen, doesn't give back any value
+ return: Gives back a value from a function, doesn't display anything
+
+ def  add_numbers add_numbers( (a a, , b b) ): :
+        print print( (a a + + b b) )        # Shows result but returns None # Shows result but returns None
+        return return a  a + + b     b    # Returns the result # Returns the result
+ result result = = add_numbers add_numbers( (5 5, ,  3 3) )    # result gets the returned value # result gets the returned value
+------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
